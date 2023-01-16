@@ -37,7 +37,7 @@ This tutorial outlines the post-installation setup of osTicket. This setup inclu
 
 <h2>Configuration Steps</h2>
 
-1.Log into the OsTicket browser and make sure you are on the "admin panel" (note if it shows "agent panel" up top then you are currently in the admin panel and vice versa) reference picture # 1. Click agents --> roles --> add new role --> create a "super admin" whom can do every task and has all permissions/access. This process will need to be repeated to perform the next two steps which are: configuring the departments & teams (create a "System Administrators department" & "Level II Support team"). Please reference screenshots below.
+1. Log into the OsTicket browser and make sure you are on the "admin panel" (note if it shows "agent panel" up top then you are currently in the admin panel and vice versa) reference picture # 1. Click agents --> roles --> add new role --> create a "super admin" whom can do every task and has all permissions/access. This process will need to be repeated to perform the next two steps which are: configuring the departments & teams (create a "System Administrators department" & "Level II Support team"). Please reference screenshots below.
 <p>
 <img width="773" alt="image" src="https://user-images.githubusercontent.com/122701786/212603603-0b82b63e-262f-473a-8a8b-0d3d1fb510b3.png">
 <img width="737" alt="image" src="https://user-images.githubusercontent.com/122701786/212603909-f371e414-ab81-4639-b6d9-6905fb50bf43.png">
