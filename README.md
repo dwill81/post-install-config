@@ -37,7 +37,7 @@ This tutorial outlines the post-installation setup of osTicket. This setup inclu
 
 <h2>Configuration Steps</h2>
 
-Log into the OsTicket browser and make sure you are on the "admin panel" (note if it shows "agent panel" up top then you are currently in the admin panel and vice versa) reference picture # 1. Click agents --> roles --> add new role --> create a "super admin" whom can do every task and has all permissions/access. This process will need to be repeated to perform the next two steps which are: configuring the departments & teams (create a "System Administrators department" & "Level II Support team"). Please reference screenshots below.
+1.Log into the OsTicket browser and make sure you are on the "admin panel" (note if it shows "agent panel" up top then you are currently in the admin panel and vice versa) reference picture # 1. Click agents --> roles --> add new role --> create a "super admin" whom can do every task and has all permissions/access. This process will need to be repeated to perform the next two steps which are: configuring the departments & teams (create a "System Administrators department" & "Level II Support team"). Please reference screenshots below.
 <p>
 <img width="773" alt="image" src="https://user-images.githubusercontent.com/122701786/212603603-0b82b63e-262f-473a-8a8b-0d3d1fb510b3.png">
 <img width="737" alt="image" src="https://user-images.githubusercontent.com/122701786/212603909-f371e414-ab81-4639-b6d9-6905fb50bf43.png">
@@ -47,7 +47,7 @@ Log into the OsTicket browser and make sure you are on the "admin panel" (note i
 
 </p>
 <br />
-<p> 5. Allow anyone to create tickets: Make sure "Registration Required" section remains unchecked.
+<p> 2. Allow anyone to create tickets: Make sure "Registration Required" section remains unchecked.
 Admin Panel -> Settings -> User Settings
 
 </p>
@@ -59,7 +59,7 @@ Admin Panel -> Settings -> User Settings
                                                                                                
                                                                                                
 <p>
-6. Configure Agents (workers):
+3. Configure Agents (workers):
 Admin Panel -> Agents -> Add New
 
 </p>
@@ -69,7 +69,7 @@ Admin Panel -> Agents -> Add New
 <img width="737" alt="image" src="https://user-images.githubusercontent.com/122701786/212607114-440767d1-bf7b-48e5-aef6-c9e5c45f1d8d.png">
 </p>
 <p>
-7. Configure Users (customers):
+4. Configure Users (customers):
 Agent Panel -> Users -> Add New
 
 </p>
@@ -78,7 +78,7 @@ Agent Panel -> Users -> Add New
 <img width="736" alt="image" src="https://user-images.githubusercontent.com/122701786/212607989-b0d90cdb-ac37-401c-b872-a77440fd1339.png">
 
 <p>
-8. Configure SLA:
+5. Configure SLA:
 Admin Panel -> Manage -> SLA
 
 </p>
@@ -87,13 +87,13 @@ Admin Panel -> Manage -> SLA
 <img width="741" alt="image" src="https://user-images.githubusercontent.com/122701786/212609354-8e1fe608-2d47-41bf-b150-8ac25ba28cb4.png">
 
 <p>
-9. Configure Help Topics:
+6. Configure Help Topics:
 Admin Panel -> Manage -> Help Topics
 
 </p>
 <br />
 
 <p>
-10. Congratulations! Now you have learned how to create both users, departments, and tickets on osTicket.
+7. Congratulations! Now you have learned how to create both users, departments, and tickets on osTicket.
 </p>
 <br />
